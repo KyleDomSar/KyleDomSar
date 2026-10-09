@@ -13,7 +13,10 @@ I build practical web applications, experiment with new tools, and learn by turn
     <img src="https://img.shields.io/badge/GitHub-KyleDomSar-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://savepoint-app-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Project-SavePoint-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="SavePoint live app" />
+    <img src="https://img.shields.io/badge/Live%20App-SavePoint-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="SavePoint live app" />
+  </a>
+  <a href="https://manga-tracker-two-xi.vercel.app/#/">
+    <img src="https://img.shields.io/badge/Live%20App-MangaTracker-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="MangaTracker live app" />
   </a>
 </p>
 
@@ -38,7 +41,7 @@ Discover games, organize a backlog, track playtime and completion, and personali
 - **Built with:** React 19, Vite, JavaScript, CSS, Vercel Serverless Functions
 - **Data:** RAWG API for game catalog information
 - **Highlights:** Search and filters, personal collection, progress notes, achievements, JSON backup and restore, responsive UI
-- **Try it:** [Live Demo](https://savepoint-app-three.vercel.app/)
+- **Live demo:** [Open SavePoint](https://savepoint-app-three.vercel.app/)
 - **Source code:** [KyleDomSar/SavePoint](https://github.com/KyleDomSar/SavePoint)
 
 ### MangaTracker
@@ -49,6 +52,7 @@ Keep a reading library organized, discover titles, and track chapter-by-chapter 
 - **Built with:** React, TypeScript, Vite, Tailwind CSS, Zustand, React Router
 - **Data:** AniList API, with MangaBaka used for additional chapter-count information when available
 - **Highlights:** Reading statuses, title details, chapter progress, reading statistics, activity history, browser-local persistence
+- **Live demo:** [Open MangaTracker](https://manga-tracker-two-xi.vercel.app/#/)
 - **Source code:** [KyleDomSar/MangaTracker](https://github.com/KyleDomSar/MangaTracker)
 
 ## Tech Stack
